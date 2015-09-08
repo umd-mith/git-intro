@@ -1,0 +1,1 @@
+Slides for my talk about archiving Ferguson Twitter data with Katie Shilton's [Policy Issues in Digital Curation](http://ischool.umd.edu/sites/default/files/syllabi/inst_641_policy_issues_in_digital_curation.pdf).
